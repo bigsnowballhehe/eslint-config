@@ -1,0 +1,18 @@
+{
+  "name": "@snlan/eslint-config",
+  "version": "1.0.0",
+  "description": "Eslint config for myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "@snfzi",
+  "license": "ISC",
+  "dependencies": {
+    "@antfu/eslint-config": "^0.36.0"
+  },
+  "devDependencies": {}
+}
