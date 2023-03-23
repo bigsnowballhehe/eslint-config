@@ -1,0 +1,1 @@
+Eslint config extends @antfu but override some rules.
