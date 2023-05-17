@@ -1,6 +1,6 @@
 {
   "name": "@snlan/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint config for myself",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "keywords": [
     "eslint"
   ],
-  "author": "@snfzi",
+  "author": "@snlan",
   "license": "ISC",
   "dependencies": {
     "@antfu/eslint-config": "^0.36.0"

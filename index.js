@@ -17,7 +17,8 @@ module.exports={
       "rules": {
         "no-console": "off",
         "no-alert": "off",
-        "curly": ["error", "all"]
+        "curly": ["error", "all"],
+        "unused-imports/no-unused-imports":"off"
       }
     }
   ]
