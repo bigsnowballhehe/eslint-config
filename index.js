@@ -13,7 +13,7 @@ module.exports={
       }
     },
     {
-      "files": ["*.ts", "*.js", "*.vue"],
+      "files": ["*"],
       "rules": {
         "no-console": "off",
         "no-alert": "off",
